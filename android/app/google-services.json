@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358443086601",
+    "project_id": "oxdo-firebase-29573",
+    "storage_bucket": "oxdo-firebase-29573.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358443086601:android:2e125fdf1fece3c9fb59d8",
+        "android_client_info": {
+          "package_name": "com.example.oxdo_message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI2wmoCOzaPf-7EyfOzfMWCg28C-q9XnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
